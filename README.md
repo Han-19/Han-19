@@ -26,20 +26,8 @@ Outside of that, I enjoy exploring:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-242938?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TensorFlow-242938?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-242938?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-242938?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Flask-242938?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/LaTeX-242938?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/ROS-242938?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
-  <img src="https://img.shields.io/badge/Qiskit-242938?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
-  <img src="https://img.shields.io/badge/Fortran-242938?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,tensorflow,pytorch,sklearn,opencv,docker,linux,git,github,flask,latex,ros,fortran&theme=dark&perline=15" alt="tech stack icons" />
+  <img src=".github/assets/qiskit-skillicon.svg" width="48" height="48" alt="Qiskit" />
 </p>
 
 ```txt
