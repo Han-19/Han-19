@@ -17,7 +17,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Han-19
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4

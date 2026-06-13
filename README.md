@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm İsmail 👋</h1>
+<h1 align="center">Hey, I'm Han 👋</h1>
 
 <h3 align="center">
   Data • Robotics • Machine Learning • Quantum Science
@@ -38,10 +38,17 @@ Outside of that, I enjoy exploring:
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,docker,linux,git,github,flask,latex" alt="tech stack icons" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
+</p>
+
 ```txt
 Data        → Pandas · NumPy · Matplotlib · Seaborn · Plotly
 ML / AI     → Scikit-learn · TensorFlow · PyTorch
 Robotics    → ROS · OpenCV · SLAM · Sensor Fusion
+Quantum     → Qiskit · Quantum Algorithms · Scientific Computing
 Tools       → Docker · Linux · Git · Jupyter · LaTeX
 Languages   → Python · C/C++ · MATLAB · Fortran
 ```
@@ -60,26 +67,36 @@ Languages   → Python · C/C++ · MATLAB · Fortran
 
 ---
 
-## 📊 GitHub Stats
+## ✍️ Featured Article
+
+<p align="left">
+  <a href="https://arxiv.org/abs/2405.16986">
+    <img src="https://img.shields.io/badge/arXiv-2405.16986-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv article" />
+  </a>
+</p>
+
+**Analysis of Scalar Fields with Series Convolution**  
+Exploring mathematical and computational approaches for scalar field analysis.
+
+---
+
+## 📊 GitHub at a Glance
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Han-19&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Han-19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" 
     height="165"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-19&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-19&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" 
     height="165"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Han-19&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <sub>Most of my current work is in private repositories, so public stats only show part of the story.</sub>
 </p>
 
 ---
@@ -98,7 +115,7 @@ Languages   → Python · C/C++ · MATLAB · Fortran
 ## 🐍 Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Han-19/Han-19/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Han-19/Han-19/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -107,12 +124,10 @@ Languages   → Python · C/C++ · MATLAB · Fortran
 
 <p align="center">
   <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=0f86gufu8vwg6rek5udz7vrft" 
     alt="Spotify recently played" 
   />
 </p>
-
-<!-- Replace YOUR_SPOTIFY_USER_ID with your Spotify user ID after setting up spotify-recently-played-readme. -->
 
 ---
 
@@ -120,10 +135,7 @@ Languages   → Python · C/C++ · MATLAB · Fortran
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iehan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-İsmail%20Eyüphan%20Ünver-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eyuphan.unver@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eyuphan.unver%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Han-19">
     <img src="https://img.shields.io/badge/GitHub-Han--19-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
