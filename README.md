@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a physics-minded developer currently based in **Munich, Germany**.
 
@@ -26,7 +26,7 @@ Outside of that, I enjoy exploring:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,tensorflow,pytorch,sklearn,opencv,docker,linux,git,github,flask,latex,ros,fortran&theme=dark&perline=15" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,tensorflow,pytorch,sklearn,opencv,docker,linux,github,flask,latex,ros,fortran&theme=dark&perline=15" alt="tech stack icons" />
   <img src=".github/assets/qiskit-skillicon.svg" width="48" height="48" alt="Qiskit" />
 </p>
 
