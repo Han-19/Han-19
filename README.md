@@ -4,18 +4,9 @@
   Data • Robotics • Machine Learning • Quantum Science
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Han-19">
-    <img src="https://komarev.com/ghpvc/?username=Han-19&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Han-19?tab=followers">
-    <img src="https://img.shields.io/github/followers/Han-19?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a physics-minded developer currently based in **Munich, Germany**.
 
@@ -36,9 +27,6 @@ Outside of that, I enjoy exploring:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,docker,linux,git,github,flask,latex" alt="tech stack icons" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
@@ -80,65 +68,17 @@ Exploring mathematical and computational approaches for scalar field analysis.
 
 ---
 
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Han-19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" 
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-19&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" 
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <sub>Most of my current work is in private repositories, so public stats only show part of the story.</sub>
-</p>
-
----
-
-## 🟩 Activity Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Han-19&theme=tokyo-night&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🐍 Snake Game
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Han-19/Han-19/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🎧 Spotify Recently Played
+## 🎧 Spotify
 
 <p align="center">
-  <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=0f86gufu8vwg6rek5udz7vrft" 
-    alt="Spotify recently played" 
-  />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/iehan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Han-19">
-    <img src="https://img.shields.io/badge/GitHub-Han--19-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://open.spotify.com/user/0f86gufu8vwg6rek5udz7vrft">
+    <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile" />
   </a>
 </p>
 
